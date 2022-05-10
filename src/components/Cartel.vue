@@ -32,6 +32,7 @@ import Button from './Button.vue';
   max-width: 787px;
   font-size: 32px;
   line-height: 37px;
+  color: #212121;
 }
 
 .cartel__text span {
