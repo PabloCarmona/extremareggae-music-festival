@@ -25,6 +25,19 @@ header {
 }
 
 .cta-tickets {
-  margin-block-end: 50px;
+  margin-block-end: 5%;
+}
+
+@media screen and (max-width: 1240px) {
+  header {
+    background-image: url(../assets/hero-mobile.jpg);
+  }
+
+  .cta-tickets {
+    margin-block-end: 10%;
+    font-size: 20px;
+    line-height: 25px;
+    padding: 24px 50px;
+  }
 }
 </style>
