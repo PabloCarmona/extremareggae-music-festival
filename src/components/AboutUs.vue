@@ -72,7 +72,7 @@
   .about-us p {
     font-size: 40px;
     line-height: 48px;
-    font-weight: 900;
+    font-family: 'Oswald', sans-serif;
     color: #FFCB40;
     text-shadow: 0px 4px 4px rgba(255, 203, 64, 0.45);
   }

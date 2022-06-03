@@ -18,7 +18,8 @@
     color: #fff;
     border: 0;
     border-radius: 6px;
-    font-family: 'Gotham Black', sans-serif;
+    /* font-family: 'Gotham Black', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 24px;
     line-height: 37px;
     padding: 24px 80px;
